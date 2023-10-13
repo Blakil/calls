@@ -1,2 +1,17 @@
 {
+     "id": 1,
+     "timestamp": 1697222851,
+     "tradingpair": "SUI/USDT:USDT",
+     "entry_prices": [
+       0.745,
+       0.735
+     ],
+     "direction": "LONG",
+     "position": "open",
+     "partitial_take": [
+       0.75,
+       0.755
+     ],
+     "take_price": 0.76
+   },
 }
